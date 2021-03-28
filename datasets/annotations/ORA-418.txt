@@ -1,0 +1,328 @@
+# Compatible with PASCAL Annotation Version 1.00
+Image filename : "../images/original/ORA-418.tif"
+Image size (X x Y x C) : 915 x 858 x 1
+Database : "None"
+Objects with ground truth : 64 { "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" "petal" }
+# Note there may be some objects not included in the ground truth list for they are severe-occluded
+# or have very small size.
+
+# Top left pixel co-ordinates : (1, 1)
+# Details for pedestrian 1 ("petal")
+Original label for object %d "1" : "ORA-418"
+Bounding box for object 1 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (271, 182) - (356, 217)
+Pixel mask for object 1 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 2 ("petal")
+Original label for object %d "2" : "ORA-418"
+Bounding box for object 2 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (334, 178) - (381, 194)
+Pixel mask for object 2 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 3 ("petal")
+Original label for object %d "3" : "ORA-418"
+Bounding box for object 3 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (359, 173) - (430, 185)
+Pixel mask for object 3 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 4 ("petal")
+Original label for object %d "4" : "ORA-418"
+Bounding box for object 4 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (411, 172) - (578, 207)
+Pixel mask for object 4 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 5 ("petal")
+Original label for object %d "5" : "ORA-418"
+Bounding box for object 5 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (352, 182) - (699, 440)
+Pixel mask for object 5 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 6 ("petal")
+Original label for object %d "6" : "ORA-418"
+Bounding box for object 6 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (157, 190) - (404, 498)
+Pixel mask for object 6 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 7 ("petal")
+Original label for object %d "7" : "ORA-418"
+Bounding box for object 7 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (216, 193) - (631, 347)
+Pixel mask for object 7 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 8 ("petal")
+Original label for object %d "8" : "ORA-418"
+Bounding box for object 8 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (522, 220) - (693, 645)
+Pixel mask for object 8 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 9 ("petal")
+Original label for object %d "9" : "ORA-418"
+Bounding box for object 9 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (181, 222) - (381, 563)
+Pixel mask for object 9 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 10 ("petal")
+Original label for object %d "10" : "ORA-418"
+Bounding box for object 10 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (384, 226) - (633, 554)
+Pixel mask for object 10 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 11 ("petal")
+Original label for object %d "11" : "ORA-418"
+Bounding box for object 11 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (222, 237) - (570, 342)
+Pixel mask for object 11 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 12 ("petal")
+Original label for object %d "12" : "ORA-418"
+Bounding box for object 12 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (381, 262) - (592, 528)
+Pixel mask for object 12 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 13 ("petal")
+Original label for object %d "13" : "ORA-418"
+Bounding box for object 13 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (654, 281) - (694, 399)
+Pixel mask for object 13 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 14 ("petal")
+Original label for object %d "14" : "ORA-418"
+Bounding box for object 14 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (226, 267) - (452, 510)
+Pixel mask for object 14 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 15 ("petal")
+Original label for object %d "15" : "ORA-418"
+Bounding box for object 15 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (274, 278) - (561, 411)
+Pixel mask for object 15 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 16 ("petal")
+Original label for object %d "16" : "ORA-418"
+Bounding box for object 16 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (385, 293) - (565, 552)
+Pixel mask for object 16 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 17 ("petal")
+Original label for object %d "17" : "ORA-418"
+Bounding box for object 17 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (398, 305) - (611, 642)
+Pixel mask for object 17 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 18 ("petal")
+Original label for object %d "18" : "ORA-418"
+Bounding box for object 18 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (254, 303) - (433, 540)
+Pixel mask for object 18 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 19 ("petal")
+Original label for object %d "19" : "ORA-418"
+Bounding box for object 19 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (132, 302) - (202, 594)
+Pixel mask for object 19 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 20 ("petal")
+Original label for object %d "20" : "ORA-418"
+Bounding box for object 20 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (205, 313) - (361, 632)
+Pixel mask for object 20 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 21 ("petal")
+Original label for object %d "21" : "ORA-418"
+Bounding box for object 21 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (289, 313) - (525, 420)
+Pixel mask for object 21 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 22 ("petal")
+Original label for object %d "22" : "ORA-418"
+Bounding box for object 22 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (354, 327) - (525, 518)
+Pixel mask for object 22 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 23 ("petal")
+Original label for object %d "23" : "ORA-418"
+Bounding box for object 23 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (363, 338) - (541, 577)
+Pixel mask for object 23 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 24 ("petal")
+Original label for object %d "24" : "ORA-418"
+Bounding box for object 24 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (286, 337) - (466, 521)
+Pixel mask for object 24 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 25 ("petal")
+Original label for object %d "25" : "ORA-418"
+Bounding box for object 25 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (364, 349) - (507, 541)
+Pixel mask for object 25 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 26 ("petal")
+Original label for object %d "26" : "ORA-418"
+Bounding box for object 26 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (165, 345) - (426, 690)
+Pixel mask for object 26 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 27 ("petal")
+Original label for object %d "27" : "ORA-418"
+Bounding box for object 27 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (238, 350) - (448, 608)
+Pixel mask for object 27 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 28 ("petal")
+Original label for object %d "28" : "ORA-418"
+Bounding box for object 28 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (270, 344) - (426, 569)
+Pixel mask for object 28 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 29 ("petal")
+Original label for object %d "29" : "ORA-418"
+Bounding box for object 29 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (318, 348) - (498, 465)
+Pixel mask for object 29 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 30 ("petal")
+Original label for object %d "30" : "ORA-418"
+Bounding box for object 30 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (369, 361) - (492, 504)
+Pixel mask for object 30 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 31 ("petal")
+Original label for object %d "31" : "ORA-418"
+Bounding box for object 31 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (315, 365) - (449, 514)
+Pixel mask for object 31 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 32 ("petal")
+Original label for object %d "32" : "ORA-418"
+Bounding box for object 32 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (140, 359) - (324, 673)
+Pixel mask for object 32 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 33 ("petal")
+Original label for object %d "33" : "ORA-418"
+Bounding box for object 33 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (354, 187) - (356, 187)
+Pixel mask for object 33 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 34 ("petal")
+Original label for object %d "34" : "ORA-418"
+Bounding box for object 34 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (340, 371) - (472, 451)
+Pixel mask for object 34 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 35 ("petal")
+Original label for object %d "35" : "ORA-418"
+Bounding box for object 35 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (298, 373) - (444, 545)
+Pixel mask for object 35 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 36 ("petal")
+Original label for object %d "36" : "ORA-418"
+Bounding box for object 36 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (380, 382) - (466, 500)
+Pixel mask for object 36 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 37 ("petal")
+Original label for object %d "37" : "ORA-418"
+Bounding box for object 37 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (334, 386) - (432, 497)
+Pixel mask for object 37 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 38 ("petal")
+Original label for object %d "38" : "ORA-418"
+Bounding box for object 38 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (352, 387) - (477, 519)
+Pixel mask for object 38 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 39 ("petal")
+Original label for object %d "39" : "ORA-418"
+Bounding box for object 39 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (368, 398) - (449, 460)
+Pixel mask for object 39 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 40 ("petal")
+Original label for object %d "40" : "ORA-418"
+Bounding box for object 40 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (355, 404) - (428, 486)
+Pixel mask for object 40 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 41 ("petal")
+Original label for object %d "41" : "ORA-418"
+Bounding box for object 41 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (324, 397) - (445, 509)
+Pixel mask for object 41 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 42 ("petal")
+Original label for object %d "42" : "ORA-418"
+Bounding box for object 42 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (376, 408) - (446, 483)
+Pixel mask for object 42 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 43 ("petal")
+Original label for object %d "43" : "ORA-418"
+Bounding box for object 43 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (370, 410) - (439, 469)
+Pixel mask for object 43 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 44 ("petal")
+Original label for object %d "44" : "ORA-418"
+Bounding box for object 44 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (389, 420) - (437, 468)
+Pixel mask for object 44 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 45 ("petal")
+Original label for object %d "45" : "ORA-418"
+Bounding box for object 45 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (379, 426) - (417, 471)
+Pixel mask for object 45 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 46 ("petal")
+Original label for object %d "46" : "ORA-418"
+Bounding box for object 46 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (388, 423) - (425, 446)
+Pixel mask for object 46 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 47 ("petal")
+Original label for object %d "47" : "ORA-418"
+Bounding box for object 47 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (384, 435) - (424, 463)
+Pixel mask for object 47 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 48 ("petal")
+Original label for object %d "48" : "ORA-418"
+Bounding box for object 48 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (392, 431) - (421, 460)
+Pixel mask for object 48 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 49 ("petal")
+Original label for object %d "49" : "ORA-418"
+Bounding box for object 49 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (398, 435) - (414, 450)
+Pixel mask for object 49 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 50 ("petal")
+Original label for object %d "50" : "ORA-418"
+Bounding box for object 50 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (359, 183) - (379, 187)
+Pixel mask for object 50 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 51 ("petal")
+Original label for object %d "51" : "ORA-418"
+Bounding box for object 51 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (310, 422) - (475, 533)
+Pixel mask for object 51 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 52 ("petal")
+Original label for object %d "52" : "ORA-418"
+Bounding box for object 52 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (290, 449) - (508, 563)
+Pixel mask for object 52 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 53 ("petal")
+Original label for object %d "53" : "ORA-418"
+Bounding box for object 53 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (273, 471) - (536, 593)
+Pixel mask for object 53 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 54 ("petal")
+Original label for object %d "54" : "ORA-418"
+Bounding box for object 54 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (250, 512) - (552, 640)
+Pixel mask for object 54 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 55 ("petal")
+Original label for object %d "55" : "ORA-418"
+Bounding box for object 55 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (210, 498) - (576, 663)
+Pixel mask for object 55 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 56 ("petal")
+Original label for object %d "56" : "ORA-418"
+Bounding box for object 56 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (324, 410) - (664, 678)
+Pixel mask for object 56 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 57 ("petal")
+Original label for object %d "57" : "ORA-418"
+Bounding box for object 57 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (135, 472) - (179, 579)
+Pixel mask for object 57 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 58 ("petal")
+Original label for object %d "58" : "ORA-418"
+Bounding box for object 58 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (209, 587) - (629, 699)
+Pixel mask for object 58 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 59 ("petal")
+Original label for object %d "59" : "ORA-418"
+Bounding box for object 59 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (171, 565) - (351, 693)
+Pixel mask for object 59 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 60 ("petal")
+Original label for object %d "60" : "ORA-418"
+Bounding box for object 60 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (549, 488) - (672, 661)
+Pixel mask for object 60 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 61 ("petal")
+Original label for object %d "61" : "ORA-418"
+Bounding box for object 61 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (469, 650) - (577, 694)
+Pixel mask for object 61 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 62 ("petal")
+Original label for object %d "62" : "ORA-418"
+Bounding box for object 62 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (331, 666) - (515, 701)
+Pixel mask for object 62 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 63 ("petal")
+Original label for object %d "63" : "ORA-418"
+Bounding box for object 63 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (273, 664) - (498, 710)
+Pixel mask for object 63 "petal" : "../masks/ORA-418_mask.png"
+
+# Details for pedestrian 64 ("petal")
+Original label for object %d "64" : "ORA-418"
+Bounding box for object 64 "petal" (Xmin, Ymin) - (Xmax, Ymax) : (220, 615) - (434, 730)
+Pixel mask for object 64 "petal" : "../masks/ORA-418_mask.png"
